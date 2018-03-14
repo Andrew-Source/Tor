@@ -16,14 +16,14 @@
 
 ## 連結伺服器
 
-## 恆開伺服器
+### 恆開伺服器
 請點擊[此處](http://andrewsource.usa.cc/tor/server/stable)或複製貼上下方連結。
 
 `http://andrewsource.usa.cc/tor/server/stable`
 
 ---
 
-## 最新版程式伺服器
+### 最新版程式伺服器
 
 請點擊[此處](http://andrewsource.usa.cc/tor/server/test)或複製貼上下方連結。
 
