@@ -4,8 +4,6 @@
 
 **我們的伺服器有兩種，`最新版程式伺服器`不會一直開啟，`恆開伺服器`則會一直開啟。**
 
-**詳細文件請參閱[`如何連接我們的伺服器？`](http://andrewsource.usa.cc/School-Science-Research/connect)**
-
 ---
 
 ## 下載洋蔥瀏覽器
