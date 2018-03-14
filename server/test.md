@@ -1,3 +1,3 @@
-<meta http-equiv="refresh" content="3; url=http://andrewtiny4iwshc.onion" />
+ï»¿<meta http-equiv="refresh" content="3; url=http://andrewtiny4iwshc.onion" />
 
-[¦pªG§A¨S¦³³Q­«·s¾É¦V½ĞÂI³o](http://andrewtiny4iwshc.onion)
+[å¦‚æœä½ æ²’æœ‰è¢«é‡æ–°å°å‘è«‹é»é€™](http://andrewtiny4iwshc.onion)

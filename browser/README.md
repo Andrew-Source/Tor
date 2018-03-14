@@ -1,12 +1,9 @@
-# Document
+﻿# Document
 
 Please realated document [here](../).
 
 ---
 
-# Server list
-
-  * [stable](stable)
-  * [test](test)
+# [Download `Tor browser` here](download)
 
 ---
